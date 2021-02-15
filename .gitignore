@@ -1,0 +1,10 @@
+# virtualenv
+venv/
+
+# ide
+.vscode
+
+# setup
+build/
+dist/
+*.egg-info
